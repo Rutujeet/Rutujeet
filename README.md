@@ -52,3 +52,5 @@ i'm rutujeet aka plugpollution. i'm an engineering undergrad (2025) who enjoys p
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </a> 
 </p>
+
+![Rutujeet's Stats](https://github-readme-stats.vercel.app/api?username=Rutujeet&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
