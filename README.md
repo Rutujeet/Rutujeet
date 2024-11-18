@@ -3,10 +3,6 @@
 <h1 align="center">yo, i'm rutujeet</h1> 
 <a href="https://plugpollution.netlify.app/">blog</a>
 
-<img align="right" alt="Coding" width="400" src="https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4hksVs3MIJxHadG7A7FI_oTy9pL-UqrC-cycJtDkuZzC">
-
-[![](https://visitcount.itsvg.in/api?id=rutujeetsuryawanshi&icon=0&color=6)](https://visitcount.itsvg.in)
-
 ---
 
 # About Me:
