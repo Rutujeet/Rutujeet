@@ -1,12 +1,13 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <h1 align="center">yo, i'm rutujeet</h1> 
-<a href="https://plugpollution.netlify.app/">blog</a>
 
 ---
 
 # About Me:
 i'm rutujeet aka _plugpollution_. i'm an engineering undergrad (2025) who enjoys programming, solid-state physics, and teaching others what i know. occasionally i like to write about life, technology, music and other things that interest me. <br>
+
+check out my latest blog <a href="https://plugpollution.netlify.app/">here</a> <br>
 
 ---
 
