@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<h1 align="center">yo, i'm rutujeet suryawanshi</h1> 
+<h1 align="center">yo, i'm rutujeet</h1> 
 <h2 align="center">student at nit trichy</h2>
 
 <img align="right" alt="Coding" width="400" src="https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4hksVs3MIJxHadG7A7FI_oTy9pL-UqrC-cycJtDkuZzC">
@@ -10,7 +10,7 @@
 ---
 
 # About Me:
-i'm rutujeet aka plugpollution. i'm an engineering undergrad (2025) who enjoys programming, solid-state physics, and teaching others what i know. occasionally i like to write about life, technology, music and other things that interest me. <br>
+i'm rutujeet aka _plugpollution_. i'm an engineering undergrad (2025) who enjoys programming, solid-state physics, and teaching others what i know. occasionally i like to write about life, technology, music and other things that interest me. <br>
 
 ---
 
