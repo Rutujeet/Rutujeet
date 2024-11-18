@@ -54,3 +54,4 @@ i'm rutujeet aka plugpollution. i'm an engineering undergrad (2025) who enjoys p
 </p>
 
 ![Rutujeet's Stats](https://github-readme-stats.vercel.app/api?username=Rutujeet&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Rutujeet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rutujeet&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
