@@ -14,11 +14,10 @@ i'm rutujeet aka plugpollution. i'm an engineering undergrad (2025) who enjoys p
 
 ---
 
-<h3 align="left">Connect with Me:</h3>
+<h3 align="left">connect:</h3>
 <p align="left">
-<a href="https://twitter.com/rutujeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rutujeet" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rutujeetsuryawanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rutujeetsuryawanshi" height="30" width="40" /></a>
-<a href="https://leetcode.com/rutujeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rutujeet" height="30" width="40" /></a>
+<a href="https://twitter.com/rutujeets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rutujeet" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rutujeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rutujeetsuryawanshi" height="30" width="40" /></a>
 </p>
 
 ---
